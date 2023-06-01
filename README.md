@@ -33,7 +33,8 @@
         <p align="center">
             <img align="center" alt="Git" width="45px" height="45px" style="padding-right:10px;" src="icons/Git-Dark.svg" title="Git"/>
             <img align="center" alt="LaTeX" width="45px" height="45px" style="padding-right:10px;" src="icons/LaTeX-White-Dark.svg" title="LaTeX"/>
-            <img align="center" alt="AdobeCC" width="45px" height="45px" style="padding-right:10px;" src="icons/AdobeCC.svg" title="Adobe Creative Suite"/>
+            <img align="center" alt="AdobeCS" width="45px" height="45px" style="padding-right:10px;" src="icons/AdobeCC.svg" title="Adobe Creative Suite"/>
+            <img align="center" alt="Obsidian" width="45px" height="45px" style="padding-right:10px;" src="icons/Obsidian.svg" title="Obsidian"/>
         </p>
       </td>
       <!-- EXPLORING -->
